@@ -13,7 +13,7 @@
 ### 998713205e3fbab93533c7fdcaff291315ca0c587baefa8a496fce68f5983586  tamil_APtools_01.tgz
 
 ## Note:
-# If you do not get the similar result, Do not extract and do not install this tools.
+### If you do not get the similar result, Do not extract and do not install this tools.
 
 
 ## When the data integrity is verified and successful.
